@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-<!--
+My Name is Felix, and I'm 17 y/o.
+
+- 🔭 I’m currently working on my Snake Game project
+- 🌱 I’m currently learning Python and Pygame
+- 📫 How to reach me: felixantgo@gmail.com
+
+ 
+ <!--
 **AntFelix/antfelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
